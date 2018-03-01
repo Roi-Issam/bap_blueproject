@@ -1,7 +1,7 @@
 # bap_blueproject
 Bap Blue Project Année 2 
 
-#Plyr
+#Plyr#
 ###Communauté : De nombreux apport de la communauté sur stackoverflow, avec des   réponses aux problèmes rapides, ainsi que de nombreux tutoriels facilement accessible.
 ###Extensibilité : Pas d’ajout de plugins   
 ###Documentation : Documentation disponible sur github, semble complète, écrite par l’auteur lui-même. 
